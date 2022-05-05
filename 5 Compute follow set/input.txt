@@ -1,0 +1,5 @@
+S -> ABCD
+A -> a/E
+B -> c/E
+C -> dDe
+D -> ecS
